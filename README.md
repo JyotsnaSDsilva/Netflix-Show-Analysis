@@ -2,8 +2,8 @@
 A repository for analysis of Netflix show reviews based on a dataset. 
 --- 
 
-Dataset : [https://www.kaggle.com/chasewillden/netflix-shows](https://www.kaggle.com/chasewillden/netflix-shows)
-My contribution on data analysis on kaggle : [https://www.kaggle.com/jyotsnasweedle/netflix-show-analysis](https://www.kaggle.com/jyotsnasweedle/netflix-show-analysis)
+* Dataset : [https://www.kaggle.com/chasewillden/netflix-shows](https://www.kaggle.com/chasewillden/netflix-shows)
+* My contribution on data analysis on kaggle : [https://www.kaggle.com/jyotsnasweedle/netflix-show-analysis](https://www.kaggle.com/jyotsnasweedle/netflix-show-analysis)
 
 
 The given dataset consists of Shows and Movies from the year 1940 to 2017, available on
