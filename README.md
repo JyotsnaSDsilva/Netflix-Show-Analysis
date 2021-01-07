@@ -1,5 +1,5 @@
 # Netflix-Show-Analysis
-A repository for analysis of Netflix show reviews based on a dataset. 
+A repository for analysis of Netflix show reviews based on a dataset obtained. 
 --- 
 
 * Dataset : [https://www.kaggle.com/chasewillden/netflix-shows](https://www.kaggle.com/chasewillden/netflix-shows)
