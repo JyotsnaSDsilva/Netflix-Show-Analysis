@@ -12,10 +12,6 @@ Audiences) to “_R_”(strong violence, sexual content and adult language) are 
 a wide-range of audience. Details included about each show are rating, rating description, rating
 level, release year, user rating score, user rating score, user rating size.
 
-Average user rating score(out of 100) is 84 where ‘**13 reasons why**’ scores the highest rating of
-99 and ‘**Life Unexpected**’ and ‘**Curious George**’ equally scoring 55, the lowest rated shows by
-users in the list.
-
 ### Problems found in the dataset
 There are several missing values in some of the rows. Few rows are repeated. Details regarding Genre are not
 provided making it difficult to categorize the shows according to these values. A couple of
